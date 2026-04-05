@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pragya Shrivastava Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Pragya Shrivastava</h1>
+<p>B.Tech Student | Web Developer</p>
+
+<h2>Projects</h2>
+
+<div class="project">
+    <h3>Rock Paper Scissors Game</h3>
+    <p>Interactive game built using HTML, CSS, JavaScript</p>
+    <a href="https://github.com/Pragya-shr/rock-paper-scissor-game" target="_blank">View Project</a>
+</div>
+
+</body>
+</html>
